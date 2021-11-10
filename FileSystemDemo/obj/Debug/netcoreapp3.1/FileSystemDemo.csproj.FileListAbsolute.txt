@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.exe
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.deps.json
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.dll
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.pdb
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.dll
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.pdb
+C:\Users\opilane\source\repos\logitpe21\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.genruntimeconfig.cache
